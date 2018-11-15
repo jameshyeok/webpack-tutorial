@@ -35,3 +35,9 @@ $ npm init - y
 $ npm run build
 </code>
 </pre>
+
+#Reference
+* [Babel loader 설정](https://webpack.js.org/loaders/babel-loader/)
+* [Babel 설정](https://poiemaweb.com/es6-babel)
+* [Babel .babelrc 설정](https://babeljs.io/setup#installation)
+* [React 환경 설정](https://velopert.com/814)
