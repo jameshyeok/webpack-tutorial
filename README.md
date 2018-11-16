@@ -12,6 +12,8 @@
 ##개발환경
 * MacOS : High Sierra 10.13.6
 * IDE   : WebStorm 2017.3.1
+* npm   : 6.4.1
+* node.js : v10.12.0
 * javascript version: ECMAscript6
 
 ##환경설정
